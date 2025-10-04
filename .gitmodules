@@ -1,3 +1,3 @@
 [submodule "faster-ica"]
-	path = faster-ica
+	path = faster_ica
 	url = git@github.com:Xunjian-Li/faster-ica.git
