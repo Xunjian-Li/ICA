@@ -1,0 +1,15 @@
+Manifest.toml
+/deps/build/
+/docs/build/
+/*.jl.*.cov
+/*.jl.mem
+.vscode/
+/dev/
+.DS_Store
+.ipynb_checkpoints/
+*.swp
+*.csv
+*.mat
+*.pdf
+.CondaPkg/
+__pycache__/
